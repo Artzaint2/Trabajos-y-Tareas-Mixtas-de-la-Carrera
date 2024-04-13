@@ -1,0 +1,38 @@
+.mainContact{
+    display: grid;
+    place-content: center;
+}
+
+.mainContact__content{
+    margin: 4.5rem 0;
+    padding: 0 1rem;
+    text-align: justify;
+}
+
+.contactInfo__socialmedia--flex{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.googleMaps{
+    text-align: center;
+    margin: 2rem 0;
+}
+
+@media screen and (min-width: 768px){
+    .mainContact{
+    margin: 0 5rem;
+    }
+    
+    .mainContact__content--grid{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        place-items: center;
+    }
+
+    .googleMaps{
+        margin: 0;
+    }
+    
+}

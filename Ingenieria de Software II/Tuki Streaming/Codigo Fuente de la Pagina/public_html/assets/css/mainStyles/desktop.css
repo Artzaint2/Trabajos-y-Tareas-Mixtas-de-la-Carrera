@@ -1,0 +1,36 @@
+
+.bd-grid {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@keyframes banner{
+  0%, 20%{
+      background-image: url('../wallpaper/pc/hbo-pc-wallpaper.png');       
+  }
+  25%, 45%{
+      background-image: url('../wallpaper/pc/yt-pc-wallpaper.png');
+  }
+  50%, 70%{
+      background-image: url('../wallpaper/pc/diseny+.png');
+  }
+  75%, 100%{
+      background-image: url('../wallpaper/pc/netflix.png');
+  }
+}
+
+.footer .footercontent{
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 50px;
+  padding: 45px 0;
+}
+
+.footer .footercontent .red-social a:hover{
+  color: yellow;
+}
+
+.footer__img{
+  width: 160px;
+}
