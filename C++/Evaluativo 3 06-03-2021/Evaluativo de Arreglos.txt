@@ -1,0 +1,21 @@
+1* Escribe un programa que defina un vector de numeros  calcule la suma de sus elementos.
+
+2* Escribe un programa que defina un vector de numeros  calcule la multiplicacion 
+  acumulada de sus elementos.
+
+3* Escribe un programa que lea por pantalla un vector de numeros y muestre en la salida 
+  los numeros del vector con sus indices asociados.
+
+4* Escribe un programa que lea por pantalla un vector de numeros y muestre en la salida 
+  los numeros del vector en orden inverso - del ultimo al primer elemento.
+
+5* Desarrolle un programa que lea por pantalla un vector de numeros enteros 
+  y determine el mayor elemento del vector.
+
+6* Desarrolle un programa que pida al usuario los datos de dos matrices de 3x3 y luego 
+  muestre la suma de ellas.
+
+7* Desarrollar un programa que pida al usuario que rellene una matriz de mxn y luego muestre
+  la diagonal inversa de la matriz.
+
+8* Desarrolle un programa que le pida al usuario que rellene una matriz de 2x2 con solo letras.                                                                                                                                                                                                                                                              
