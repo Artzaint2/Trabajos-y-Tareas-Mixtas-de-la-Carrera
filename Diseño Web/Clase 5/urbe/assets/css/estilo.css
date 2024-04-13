@@ -1,0 +1,103 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+#header{
+    max-width: 100%;
+    height: 150px;
+    display: table;
+    text-align: center;
+    line-height: 150px;
+    background-image: url(../img/warcraft.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#container{
+    display: table;
+    width: 100%;
+    height: 150px;
+    background-color: cornsilk;
+}
+
+#nav{
+    background-color: brown;
+    width: 100%;
+    border: 1px white solid;
+}
+
+#nav ul{
+    display: flex;
+    border: white solid;
+}
+
+#nav ul li{
+    list-style: none;
+    border: 1px white solid;
+
+}
+
+#nav ul li a{
+
+    text-decoration: none;
+    padding: 20px 25px 20px 25px;
+    display: table;
+    border: 1px  white solid;
+}
+
+#nav ul li a:hover{
+background-color: white;
+color: brown;
+}
+
+#footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1.5px;
+}
+
+#cuerpo1, #cuerpo2, #cuerpo3{
+    width: 100%;
+    height: 150px;
+    display: table;
+}
+
+#cuerpo1, #cuerpo2, #cuerpo3 p{
+
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#cuerpo1, #cuerpo2, #cuerpo3 h2{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: justify;
+}
+
+#arriba{
+    background-color: blue;
+    color: blueviolet;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    right: 11px;
+    position: fixed;
+    bottom: 210px;
+    border-radius: 100%;
+}
+
+#arriba a{
+    text-decoration: none;
+    color: brown;
+}
+
+#arriba:hover{
+    background-color: skyblue;
+    color: whitesmoke;
+}
