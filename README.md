@@ -3,4 +3,4 @@ Como projectos individuales en su momento. Cabe destacar que varios de estos tra
 
 Estos trabajos fueron hechos tanto de manera individual como en parejas o equipos, dependiendo de la actividad.
 
-con esto quiero expresar tambien mi enorme gratitud a todos aquellos que conoci, entable amistad, y colabore en conjunto para convertirnos en ingenieros.
+con esto quiero expresar tambien mi gratitud eterna a todos aquellos que conoci, entable amistad, y colabore en conjunto para convertirnos en ingenieros.
